@@ -2,6 +2,7 @@
     "name":    "fontawesome",
     "version": "4.5.0",
     "main":    [
+        "fontawesome.es6",
         "fontawesome/*"
     ]
 }
